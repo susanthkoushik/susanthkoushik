@@ -11,11 +11,10 @@
 - 🔭 Working on small projects to build my skills
 - 💬 Still exploring what area excites me most
 - 😄 I enjoy solving problems and learning new things
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: koushik.nagasuri@gmail.com
 
--->
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+
 
 
 # 💻 Tech Stack:
